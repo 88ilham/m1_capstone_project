@@ -5,7 +5,7 @@ yellow_pages = {
     'Contact ID': [101, 102, 103, 104, 105],
     'First Name': ['Fyodor', 'Anaïs', 'RM Pagi Sore','RM Garuda', 'dr John'],
     'Last Name': ['Dostoevsky', 'Nin', '', '', 'Doe'],
-    'Phone Number': ['081234567890', '081798765432', '02156781234'],
+    'Phone Number': ['081234567890', '081798765432', '02156781234', '082123456789', '02287654321'],
     'Category': ['Personal', 'Personal', 'Business', 'Business', 'Personal']
 }
 
